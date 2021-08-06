@@ -14,6 +14,7 @@ for num in range(len(self.information)):
 
 Iter method is used to implement iterator with yield keyword. Here each line in the .csv file is taken and then processed and the fed as return when each time iterator is called. Not able to implement iterator properly so used NYCClassicParking method where next() is used
 
+
 **Namedtuple**
 ```
 def form_named_tuple(self, ticket_header):        
